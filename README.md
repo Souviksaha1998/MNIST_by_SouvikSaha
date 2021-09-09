@@ -4,7 +4,7 @@
   google colab </br>
 **Project Title :**
   HandWritten digit recognizer 
-  I have done this project with famous mnist data. </br>
+  I have done this project with famous mnist dataset. </br>
 **Primary goals :** 
   1. Prepare and pre-process the dataset in manner that allows you
   to train a binary classifier (of your choice), that determines
@@ -13,7 +13,7 @@
   understanding of the same.
   3. Visualize the actual label and the predicted labels through subplots. </br>
 **Build Status :** </br>
-  I have downloaded the project from sklearn dataset. From this dataset i have only used "Data" and "Target" columns for my project.Then i created X for features and y 
+  I have downloaded the dataset from sklearn dataset. From this dataset i have only used "Data" and "Target" columns for my project.Then i created X for features and y 
   for labels and split the dataset into X_train , y_train , X_test , y_test.
   as the primary goal suggests , i have to create a detector that detect whether it is 7 or not 7.
   To plot the digit image i have used from matplotlib import pyplot. To get the image we have to reshape the data into 2D then plot it. 
