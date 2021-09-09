@@ -1,7 +1,7 @@
 # MNIST_by_SouvikSaha
 
 Environment used for this project : 
-  google colab
+  google colab </br>
 Project Title : 
   HandWritten digit recognizer
   I have done this project with famous mnist data.
